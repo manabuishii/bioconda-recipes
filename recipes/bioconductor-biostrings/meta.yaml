@@ -2,8 +2,8 @@ package:
   name: bioconductor-biostrings
   version: 2.38.4
 source:
-  fn: Biostrings_2.38.4.tar.gz
-  url: http://bioconductor.org/packages/release/bioc/src/contrib/Biostrings_2.38.4.tar.gz
+  fn: r-bioc-biostrings_2.38.4.orig.tar.gz
+  url: http://mirror2.tuxinator.org/ubuntu/pool/universe/r/r-bioc-biostrings/r-bioc-biostrings_2.38.4.orig.tar.gz
   md5: 1671ad0a1c200ed1dc23386bc53f1640
 build:
   number: 0
