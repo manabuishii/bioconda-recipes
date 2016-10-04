@@ -336,13 +336,13 @@ recipes/bioconductor-bayespeak
 recipes/bioconductor-cn.mops
 recipes/bioconductor-seqpattern
 # recipes/r-mclust
-# recipes/jamm
+recipes/jamm
 recipes/jamm/1.0.7.2
-# recipes/r-rjson
-# recipes/r-wasabi
-# recipes/r-getoptlong
+recipes/r-rjson
+recipes/r-wasabi
+recipes/r-getoptlong
 recipes/bioconductor-complexheatmap
-# recipes/r-rniftyreg
+recipes/r-rniftyreg
 recipes/r-ggplot2
 recipes/r-mutationalpatterns
 
