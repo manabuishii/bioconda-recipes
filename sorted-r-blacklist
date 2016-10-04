@@ -298,7 +298,7 @@ recipes/bioconductor-org.dm.eg.db
 recipes/bioconductor-topgo
 recipes/bioconductor-do.db
 recipes/bioconductor-biostrings
-recipes/r-rBLAST
+# recipes/r-rBLAST
 recipes/bioconductor-keggrest
 recipes/bioconductor-gage
 recipes/bioconductor-genomeinfodb
@@ -307,7 +307,7 @@ recipes/bioconductor-genomicranges
 recipes/triform2
 recipes/bioconductor-summarizedexperiment/1.0.2
 recipes/bioconductor-rsamtools
-recipes/r-spp
+# recipes/r-spp
 recipes/bioconductor-genomicalignments
 recipes/bioconductor-rtracklayer
 recipes/bioconductor-genomicfeatures
@@ -325,7 +325,7 @@ recipes/bioconductor-bsgenome.hsapiens.ucsc.hg19
 recipes/bioconductor-variantannotation
 recipes/bioconductor-bsgenome.ecoli.ncbi.20080805
 recipes/bioconductor-basic4cseq
-recipes/r-dpeak
+# recipes/r-dpeak
 recipes/bioconductor-motifrg
 recipes/bioconductor-bsgenome.celegans.ucsc.ce6
 recipes/bioconductor-bsgenome.mmusculus.ucsc.mm9
@@ -335,37 +335,37 @@ recipes/bioconductor-biovizbase
 recipes/bioconductor-bayespeak
 recipes/bioconductor-cn.mops
 recipes/bioconductor-seqpattern
-recipes/r-mclust
-recipes/jamm
+# recipes/r-mclust
+# recipes/jamm
 recipes/jamm/1.0.7.2
-recipes/r-rjson
-recipes/r-wasabi
-recipes/r-getoptlong
+# recipes/r-rjson
+# recipes/r-wasabi
+# recipes/r-getoptlong
 recipes/bioconductor-complexheatmap
-recipes/r-rniftyreg
-recipes/r-ggplot2
-recipes/r-mutationalpatterns
+# recipes/r-rniftyreg
+# recipes/r-ggplot2
+# recipes/r-mutationalpatterns
 
 
 # TODO: r-ggalt depends on r-ash which has unresolved issues
 recipes/r-ggalt
 
 
-recipes/r-ggdendro
+# recipes/r-ggdendro
 recipes/bioconductor-ggtree
-recipes/r-ggally
+# recipes/r-ggally
 recipes/bioconductor-ggbio
-recipes/r-viridis
+# recipes/r-viridis
 recipes/bioconductor-genomation
 recipes/bioconductor-cexor
-recipes/r-solarius
-recipes/r-upsetr
+# recipes/r-solarius
+# recipes/r-upsetr
 recipes/bioconductor-chipseeker
-recipes/r-ggrepel
-recipes/r-mixomics
+# recipes/r-ggrepel
+# recipes/r-mixomics
 recipes/bioconductor-vsn
-recipes/r-nanostringnorm
-recipes/metilene
+# recipes/r-nanostringnorm
+# recipes/metilene
 recipes/bioconductor-biomformat
 recipes/bioconductor-degreport
 
