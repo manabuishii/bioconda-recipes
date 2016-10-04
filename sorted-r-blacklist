@@ -351,18 +351,18 @@ recipes/bioconductor-complexheatmap
 recipes/r-ggalt
 
 
-# recipes/r-ggdendro
+recipes/r-ggdendro
 recipes/bioconductor-ggtree
-# recipes/r-ggally
+recipes/r-ggally
 recipes/bioconductor-ggbio
-# recipes/r-viridis
+recipes/r-viridis
 recipes/bioconductor-genomation
 recipes/bioconductor-cexor
-# recipes/r-solarius
-# recipes/r-upsetr
+recipes/r-solarius
+recipes/r-upsetr
 recipes/bioconductor-chipseeker
-# recipes/r-ggrepel
-# recipes/r-mixomics
+recipes/r-ggrepel
+recipes/r-mixomics
 recipes/bioconductor-vsn
 recipes/r-nanostringnorm
 recipes/metilene
