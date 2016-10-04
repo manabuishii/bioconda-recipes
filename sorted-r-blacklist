@@ -343,8 +343,8 @@ recipes/jamm/1.0.7.2
 # recipes/r-getoptlong
 recipes/bioconductor-complexheatmap
 # recipes/r-rniftyreg
-# recipes/r-ggplot2
-# recipes/r-mutationalpatterns
+recipes/r-ggplot2
+recipes/r-mutationalpatterns
 
 
 # TODO: r-ggalt depends on r-ash which has unresolved issues
