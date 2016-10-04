@@ -307,7 +307,7 @@ recipes/bioconductor-genomicranges
 recipes/triform2
 recipes/bioconductor-summarizedexperiment/1.0.2
 recipes/bioconductor-rsamtools
-# recipes/r-spp
+recipes/r-spp
 recipes/bioconductor-genomicalignments
 recipes/bioconductor-rtracklayer
 recipes/bioconductor-genomicfeatures
@@ -325,7 +325,7 @@ recipes/bioconductor-bsgenome.hsapiens.ucsc.hg19
 recipes/bioconductor-variantannotation
 recipes/bioconductor-bsgenome.ecoli.ncbi.20080805
 recipes/bioconductor-basic4cseq
-# recipes/r-dpeak
+recipes/r-dpeak
 recipes/bioconductor-motifrg
 recipes/bioconductor-bsgenome.celegans.ucsc.ce6
 recipes/bioconductor-bsgenome.mmusculus.ucsc.mm9
@@ -335,7 +335,7 @@ recipes/bioconductor-biovizbase
 recipes/bioconductor-bayespeak
 recipes/bioconductor-cn.mops
 recipes/bioconductor-seqpattern
-# recipes/r-mclust
+recipes/r-mclust
 recipes/jamm
 recipes/jamm/1.0.7.2
 recipes/r-rjson
