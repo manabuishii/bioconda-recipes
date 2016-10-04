@@ -364,8 +364,8 @@ recipes/bioconductor-chipseeker
 # recipes/r-ggrepel
 # recipes/r-mixomics
 recipes/bioconductor-vsn
-# recipes/r-nanostringnorm
-# recipes/metilene
+recipes/r-nanostringnorm
+recipes/metilene
 recipes/bioconductor-biomformat
 recipes/bioconductor-degreport
 
