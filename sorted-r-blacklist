@@ -297,7 +297,7 @@ recipes/bioconductor-illuminamousev2.db
 recipes/bioconductor-org.dm.eg.db
 recipes/bioconductor-topgo
 recipes/bioconductor-do.db
-recipes/bioconductor-biostrings
+# recipes/bioconductor-biostrings
 # recipes/r-rBLAST
 recipes/bioconductor-keggrest
 recipes/bioconductor-gage
